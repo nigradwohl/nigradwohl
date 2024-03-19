@@ -3,7 +3,7 @@
 Welcome to my page!
 I am Nico, a psychological scientist who is excited about understanding human decision-making. I am intrigued by the question how the combination of scientific insights and artificial intelligence can help us make better decisions to make our lives easier.
 
-As a scientist, I explore the fascinating world of group dynamics, consensus-building, and the spread of misinformation. My work combines traditional psychology research with cutting-edge tools like AI and online experiments -- maybe I am as exccited about human decision making and learning as I am about the learning of machines.
+As a scientist, I explore the fascinating world of group dynamics, consensus-building, and the spread of misinformation. My work combines traditional psychology research with cutting-edge tools like AI and online experiments.
 
 Currently I am working on news reporting during the COVID pandemic and ask how we can develop tools to make the life of journalists easier. So I finally get to learn more about Machine Learning, Natural Language processing and the perks of Large Language models.
 
