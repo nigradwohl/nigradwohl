@@ -2,23 +2,24 @@
 
 I am all excited about understanding human decision-making, I explore the fascinating world of group dynamics, consensus-building, and the spread of misinformation. My work combines traditional psychology research with cutting-edge tools like AI and online experiments.
 
-Remember, science is all about collaboration! Feel free to explore my repositories, and reach out to me if you are intrigued. 🧠🔍
+Currently I am working on news reporting during the COVID pandemic and ask how we can develop tools to make the life of journalists easier. I finally get to learn more about Machine Learning, Natural Language processing and the perks of Large Language models.
 
-## 🔬 Research Focus
+
+## Research Focus
 
 - **Judgment and Decision-Making**: I investigate how individuals make choices under risk and uncertainty -- and in the presence of others.
 - **Group Dynamics**: Understanding how groups interact, form opinions, reach consensus, and influence individual behavior.
 - **Misinformation**: Tracking the spread of false information online and developing strategies to combat it.
 
-## Current work 
 
-Currently I am working on news reporting during the COVID pandemic and ask how we can develop tools to make the life of journalists easier.
-
-## 🚀 Skills and Tools
+## Skills and Tools
 
 - **Languages**: R, Python, Java Script
-- **Tools**: RMarkdown, Jupyter Notebook, Git, GitHub Actions, Google Colab
-- **LLMs**: ChatGPT and Vertex AI
+- **Tools**: RMarkdown, Jupyter Notebook, Git, GitHub Actions, Google Colab, ChatGPT and Vertex AI
+- **Statistical analyses**: (Bayesian) Hierachical models (aka multi-level mmodels), basic statistics, visualizations
+
+
+Remember, science is all about collaboration! Feel free to explore my repositories, and reach out to me if you are intrigued. I **LOVE** to help out folks with statistics and modelling and figure out solutions together!
 
 
 ## 📚 Publications 
