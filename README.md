@@ -5,7 +5,8 @@ I am Nico, a psychological scientist who is excited about understanding human de
 
 As a scientist, I explore the fascinating world of group dynamics, consensus-building, and the spread of misinformation. My work combines traditional psychology research with cutting-edge tools like AI and online experiments.
 
-Currently I am working on news reporting during the COVID pandemic and ask how we can develop tools to make the life of journalists easier. So I finally get to learn more about Machine Learning, Natural Language processing and the perks of Large Language models.
+Currently I am working on the question how humans represent and reconstruct information from distributions in the context of judgment and decision making.
+I am also interested in risk communication and previously worked on news reporting during the COVID pandemic and developed a tool to make the life of journalists easier (contact me in case you are interested).
 
 
 ## Research Focus
